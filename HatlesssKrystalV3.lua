@@ -1065,7 +1065,7 @@ elseif k == "v" then
         sound69.SoundId = customasset("Dances/HakariDance4K.mp3")
         timeposcur = sound69.TimePosition 
 sound69:Play()
-        playanim(92699725136780)
+        playanim(122668520843913)
     else
         stopanim()
  
