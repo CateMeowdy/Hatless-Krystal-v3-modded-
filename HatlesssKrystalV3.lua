@@ -1475,7 +1475,7 @@ sound69:Play()
     else
         stopanim()
     end
-elseif k == "u" then 
+elseif k == "k" then 
     if dancing == false then 
         stopanim()
         dancing = true
@@ -1535,7 +1535,7 @@ sound69:Play()
     else
         stopanim()
     end
-          elseif k == "o" then 
+          elseif k == "u" then 
     if dancing == false then 
         stopanim()
         dancing = true
