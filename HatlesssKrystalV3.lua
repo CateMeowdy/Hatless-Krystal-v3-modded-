@@ -1475,15 +1475,15 @@ sound69:Play()
     else
         stopanim()
     end
-elseif k == "k" then 
+elseif k == "u" then 
     if dancing == false then 
         stopanim()
         dancing = true
         task.wait(.005)
-        sound69.SoundId = customasset("Dances/bimbam.mp3")
+        sound69.SoundId = customasset("Dances/hypno.mp3")
         timeposcur = sound69.TimePosition 
 sound69:Play()
-        playanim(16361564081)
+        playanim(72723551972407)
     else
         stopanim()
     end
@@ -1535,7 +1535,7 @@ sound69:Play()
     else
         stopanim()
     end
-          elseif k == "u" then 
+          elseif k == "k" then 
     if dancing == false then 
         stopanim()
         dancing = true
